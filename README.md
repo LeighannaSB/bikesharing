@@ -1,9 +1,13 @@
+![image](https://user-images.githubusercontent.com/107161421/190881803-711ccea8-8b9d-45a1-ac87-a872697a7261.png)
+
 # NYC Citibike Casestudy
 
 The purpose of the Citibike analysis was to look at the data for bikesharing in NYC to build a proposal for a similar business in Des Moines. Key visualizations for the final Tableau presentation included:
 - Showing the length of time that bikes are checked out for all riders and genders
 - Showing the number of bike trips for all riders and genders for each hour of each day of the week
 - Showing the number of bike trips for each type of user and gender for each day of the week
+
+![image](https://user-images.githubusercontent.com/107161421/190881762-4b634191-37d1-44bf-9534-b9ad0216248d.png)
 
 The final presentation can be viewed on Tableau Public: https://public.tableau.com/app/profile/leighanna.stone.bradley/viz/NYCCitibikesChallenge_16634625449410/CitibikeChallengeStory?publish=yes
 
